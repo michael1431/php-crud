@@ -1,0 +1,1 @@
+#This is the php crud application where i used core php concept and mysql with Bootstrap4 and CSS3.
